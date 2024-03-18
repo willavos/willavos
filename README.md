@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @willavos
-
-
-Go away
+- Go away
